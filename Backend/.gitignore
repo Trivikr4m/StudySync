@@ -1,0 +1,21 @@
+# Maven build output
+target/
+bin/
+
+# IDE / Project files
+.classpath
+.project
+.settings/
+.factorypath
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Environment files
+.env
+.env.*
+*.local
